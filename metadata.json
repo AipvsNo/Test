@@ -1,0 +1,7 @@
+{
+  "name": "EduStream Student Management",
+  "description": "A comprehensive student management system with AI-powered performance analysis, real-time dashboard, and student tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
